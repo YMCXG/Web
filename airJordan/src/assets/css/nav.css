@@ -1,0 +1,43 @@
+.nav-bg {
+  min-width: 1032px;
+  border-bottom: 1px solid #e5e5e5;
+}
+.nav-bg .nav-box {
+  width: 1032px;
+  height: 80px;
+  margin: 0 auto;
+  background: #fff;
+}
+.nav-bg .nav-box .logo {
+  cursor: pointer;
+}
+.nav-bg .nav-box .logo .imgLogo {
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+  float: left;
+}
+.nav-bg .nav-box .logo .wordLogo {
+  float: left;
+  height: 80px;
+  line-height: 80px;
+  font-size: 28px;
+  font-weight: bold;
+}
+.nav-bg .nav-box .tabList {
+  width: auto;
+  float: right;
+}
+.nav-bg .nav-box .tabList li {
+  width: 160px;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+  color: #000;
+  float: left;
+  font-size: 16px;
+  cursor: pointer;
+}
+.nav-bg .nav-box .tabList .tab-active {
+  font-weight: bold;
+}

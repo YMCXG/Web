@@ -1,0 +1,10 @@
+/* 重置默认样式 */
+@import url(./common/reset.css);   
+/* body样式 */
+@import url(./body.css);
+/* 头部导航 */
+@import url(./nav.css);
+/* 鞋款介绍侧边栏 */
+@import url(./aside.css);
+/* 鞋款详细页面 */
+@import url(./shoeDetail.css)
